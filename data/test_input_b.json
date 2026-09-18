@@ -1,0 +1,22 @@
+[
+  {
+    "customer_id": "C2001",
+    "name": "Rahul Kumar",
+    "email": "rahul1@example.com",
+    "phone": "9000000001",
+    "address": "10 MG Road",
+    "city": "Bengaluru",
+    "last_updated": "2026-09-01",
+    "source": "CRM"
+  },
+  {
+    "customer_id": "C2002",
+    "name": "Rahul Kumar",
+    "email": "rahul2@example.com",
+    "phone": "9000000002",
+    "address": "22 Park Street",
+    "city": "Hyderabad",
+    "last_updated": "2026-09-02",
+    "source": "Web"
+  }
+]

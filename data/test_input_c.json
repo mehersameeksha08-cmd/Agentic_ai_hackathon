@@ -1,0 +1,22 @@
+[
+  {
+    "customer_id": "C3001",
+    "name": "Anita Rao",
+    "email": "anita@example.com",
+    "phone": "9111111111",
+    "address": "5 Green Avenue",
+    "city": "Chennai",
+    "last_updated": "2026-08-01",
+    "source": "CRM"
+  },
+  {
+    "customer_id": "C3002",
+    "name": "Anita Rao",
+    "email": "anita@example.com",
+    "phone": "9222222222",
+    "address": "5 Green Avenue",
+    "city": "Chennai",
+    "last_updated": "2026-08-20",
+    "source": "Billing"
+  }
+]

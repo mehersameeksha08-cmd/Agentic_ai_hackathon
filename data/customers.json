@@ -1,0 +1,32 @@
+[
+  {
+    "customer_id": "C1001",
+    "name": "Sneha Srirampur",
+    "email": "sneha@gmail.com",
+    "phone": "9876543210",
+    "address": "12 Lake Road",
+    "city": "Hyderabad",
+    "last_updated": "2026-09-10",
+    "source": "CRM"
+  },
+  {
+    "customer_id": "C1044",
+    "name": "S. Srirampur",
+    "email": "sneha@gmail.com",
+    "phone": "9876543210",
+    "address": "12 Lake Rd",
+    "city": "Hyderabad",
+    "last_updated": "2026-09-12",
+    "source": "Support"
+  },
+  {
+    "customer_id": "C1088",
+    "name": "Sneh Srirampur",
+    "email": "srirampur@gmail.com",
+    "phone": "9876543210",
+    "address": "14 Lake Road",
+    "city": "Hyderabad",
+    "last_updated": "2026-09-15",
+    "source": "Web"
+  }
+]
